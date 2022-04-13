@@ -1,4 +1,4 @@
-👋 Hey there, I'm Lucas. I work at [ABC Arbitrage](https://github.com/Abc-Arbitrage) on a trading platform. Some topics I like:
+👋 Hey there, I'm Lucas. I work at [ABC Arbitrage](https://github.com/Abc-Arbitrage) on our .NET trading platform. Some topics I like:
 
  - Low-level stuff in C#
  - High-performance code and optimization
