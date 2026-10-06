@@ -1,7 +1,6 @@
-👋 Hey there, I'm Lucas. I work at [ABC Arbitrage](https://github.com/Abc-Arbitrage) on our .NET trading platform. Some topics I like:
+👋 Hey there, I'm Lucas, Staff Engineer at [ABC arbitrage](https://github.com/Abc-Arbitrage). I'm passionate about:
 
- - Low-level stuff in C#
- - High-performance code and optimization
- - Language parsing and processing, compilers
+ - Low-level, high-performance code in C# (and a Rust enthusiast), pushing hardware to its limits
+ - Compilers, language parsing and processing, developer experience tooling
 
-Check out some of my projects below. 🙂
+I maintain several open-source libraries, featured below. 🤘
